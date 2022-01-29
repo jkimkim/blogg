@@ -1,0 +1,2 @@
+# blogg
+simple blogging web
